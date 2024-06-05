@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>compare response data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34afc1f3-05ae-42bc-8026-82a7a0de1ee9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a6629040-d465-469f-9fb1-1fdfcf6dbaef</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'CARIBOU051'</defaultValue>
+      <description></description>
+      <id>a6629040-d465-469f-9fb1-1fdfcf6dbaef</id>
+      <masked>false</masked>
+      <name>registration</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>get vehicle data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8760714-9914-42b1-ae37-9e5432238c88</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>56745dc6-6230-410d-ab01-f305b4de3b99</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/vehicleData/regos</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>56745dc6-6230-410d-ab01-f305b4de3b99</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>registration</value>
+      <variableId>8af14146-06cc-42ad-a1cf-300a00944bed</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8af14146-06cc-42ad-a1cf-300a00944bed</id>
+      <masked>false</masked>
+      <name>registration</name>
+   </variable>
+</TestCaseEntity>

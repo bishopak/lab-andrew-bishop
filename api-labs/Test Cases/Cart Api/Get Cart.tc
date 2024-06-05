@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90eb0208-83a1-41c2-b651-9ff61a1cff53</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d6863768-841d-440e-8b00-e3f0652b533f</id>
+      <masked>false</masked>
+      <name>clientId</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6137b693-b80b-418a-9ba1-9d71155633b4</id>
+      <masked>false</masked>
+      <name>type</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e158f64a-892d-40e1-a8b4-701a7dbc31ab</id>
+      <masked>false</masked>
+      <name>discount</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>50a074a8-5448-4870-a857-7738e6e99680</id>
+      <masked>false</masked>
+      <name>expectedStatusCode</name>
+   </variable>
+</TestCaseEntity>

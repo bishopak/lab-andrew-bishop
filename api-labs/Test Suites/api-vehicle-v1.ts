@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>api-vehicle-v1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>6478b789-3a1b-4d0d-bc2a-d48d6d486bbf</testSuiteGuid>
+   <testCaseLink>
+      <guid>7fbdef9c-0c66-417e-a936-aa2bfedbf320</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/vehicle/get details of vehicle</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>99c531e9-c822-4b9c-8ab7-27765866c390</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4bf0ed3d-251f-404d-82e1-404e1cf3ecc0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/vehicle/get regos</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ee943ddc-5da4-4eff-ba61-20e26ac39965</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/vehicle/get vehicle data</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8af14146-06cc-42ad-a1cf-300a00944bed</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>41e2ff77-f989-4dbb-8c0e-8c2fb2f9fa3e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/vehicle/compare response data</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a6629040-d465-469f-9fb1-1fdfcf6dbaef</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

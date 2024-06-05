@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>create token</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dce42b7a-fe65-4010-87d1-5b8dec1545c0</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ec52c3a9-1f79-4e91-bd9f-fe8a3887bb83</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/studentData/createToken</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>ec52c3a9-1f79-4e91-bd9f-fe8a3887bb83</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>clientId</value>
+      <variableId>ad970daa-c9d8-42e2-9ae4-4df493d9f60f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>ec52c3a9-1f79-4e91-bd9f-fe8a3887bb83</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>key</value>
+      <variableId>dbb64e17-c222-4d76-bea8-6d4a509cb594</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>ec52c3a9-1f79-4e91-bd9f-fe8a3887bb83</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>expectedStatusCode</value>
+      <variableId>ea112e02-e8a1-4139-9edf-9923e7bb32a2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ad970daa-c9d8-42e2-9ae4-4df493d9f60f</id>
+      <masked>false</masked>
+      <name>clientId</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dbb64e17-c222-4d76-bea8-6d4a509cb594</id>
+      <masked>false</masked>
+      <name>key</name>
+   </variable>
+   <variable>
+      <defaultValue>'0'</defaultValue>
+      <description></description>
+      <id>ea112e02-e8a1-4139-9edf-9923e7bb32a2</id>
+      <masked>false</masked>
+      <name>expectedStatusCode</name>
+   </variable>
+</TestCaseEntity>
